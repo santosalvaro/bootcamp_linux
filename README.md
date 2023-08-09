@@ -1,4 +1,4 @@
-# Projeto Linux
+# Bootcamp Linux 
 Códigos/scripts feito para o desafio de código do Bootcamp Linux do zero - Dio.
 
 ### Descrição dos códigos/scripts:
